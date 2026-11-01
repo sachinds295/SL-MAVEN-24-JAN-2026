@@ -29,6 +29,8 @@ public class MyCalc {
 	{
 		System.out.println("Hello Jenkins from Master Branch");
 	}
+	public void and(){
+	}
 
 	public static void main(String[] args) {
 		MyCalc calc = new MyCalc();
